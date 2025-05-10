@@ -1,6 +1,14 @@
-# 💫 About Me:
-🔭 Hi, My name is Voeun Sopanha<br>🌱 I’m currently learning<br>💬 Ask me anything 
+<div align="center">
+</div>  
+<h1 align="center">
+  Hi there, I'm <a href="https://github.com/V-Sopanha">Sopamja</a> 👋
+</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F79327&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+am+a+Passionate+Developer;Always+Learning+New+Things!" alt="Typing Animation">
+</p>
+
+--- 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VoeunSopanha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sopanhavoeun23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sopanha2310@gmail.com) 
