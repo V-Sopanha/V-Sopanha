@@ -1,7 +1,7 @@
 <div align="center">
 </div>  
 <h1 align="center">
-  Hi there, I'm <a href="https://github.com/V-Sopanha">Sopamja</a> 👋
+  Hi there, I'm <a href="https://github.com/V-Sopanha">Sopanha</a> 👋
 </h1>
 
 <p align="center">
