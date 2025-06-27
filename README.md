@@ -8,6 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F79327&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+am+a+Passionate+Developer;Always+Learning+New+Things!" alt="Typing Animation">
 </p>
 
+
 --- 
 
 ## 🌐 Socials:
