@@ -20,7 +20,7 @@
 ----
 ## 🐍 Contribution Graph
 
-<p align="center">
+<p >
   <img src="https://raw.githubusercontent.com/V-Sopanha/V-Sopanha/output/github-snake.svg" alt="Snake animation">
 </p>
 
