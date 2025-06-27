@@ -20,7 +20,7 @@
 ----
 ## 🐍 Contribution Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lyudommuny13/lyudommuny13/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/V-Sopanha/V-Sopanha/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 # 📊 GitHub Stats:
